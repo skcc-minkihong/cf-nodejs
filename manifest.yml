@@ -4,3 +4,4 @@ applications:
   memory: 192M
   instances: 1
   random-route: false
+  host: minki-0128
